@@ -9,7 +9,7 @@ Job section :
     - social media 
     - Categories
 
-    FUNCs
+    FUNCTIONS
     - Apply 
     - Post Job
 
