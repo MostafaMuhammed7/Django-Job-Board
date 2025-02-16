@@ -24,3 +24,9 @@ Blogs :
     - author 
     - comments
     - recent blog
+
+
+Contact 
+Home 
+
+Login
